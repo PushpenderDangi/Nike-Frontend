@@ -1,6 +1,5 @@
 import React from "react";
-import Nike from "./images/nikelogo.png"
-
+import Nike from "./images/nikelogo.png";
 
 const Navbar = () => {
   return (
@@ -10,7 +9,6 @@ const Navbar = () => {
           <img src={Nike} alt="logo" />
         </div>
 
-
         <ul>
           <li>Menu</li>
           <li>Location</li>
@@ -18,8 +16,7 @@ const Navbar = () => {
           <li>Contact</li>
         </ul>
 
-
-        <button type="button">Login</button>
+        {/* <button type="button">Login</button> */}
       </nav>
     </>
   );
