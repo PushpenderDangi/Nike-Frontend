@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PushpenderDangi/Nike-Frontend.git/static/css/main.eca003b7.css",
+    "main.js": "/PushpenderDangi/Nike-Frontend.git/static/js/main.8305c4ea.js",
+    "static/js/787.ce8d3880.chunk.js": "/PushpenderDangi/Nike-Frontend.git/static/js/787.ce8d3880.chunk.js",
+    "static/media/shoe.png": "/PushpenderDangi/Nike-Frontend.git/static/media/shoe.47e8fefdd46ad6e9b2b8.png",
+    "static/media/nikelogo.png": "/PushpenderDangi/Nike-Frontend.git/static/media/nikelogo.089f7910067787d70487.png",
+    "static/media/flipkart.png": "/PushpenderDangi/Nike-Frontend.git/static/media/flipkart.950d60a29fc980ce3295.png",
+    "index.html": "/PushpenderDangi/Nike-Frontend.git/index.html",
+    "main.eca003b7.css.map": "/PushpenderDangi/Nike-Frontend.git/static/css/main.eca003b7.css.map",
+    "main.8305c4ea.js.map": "/PushpenderDangi/Nike-Frontend.git/static/js/main.8305c4ea.js.map",
+    "787.ce8d3880.chunk.js.map": "/PushpenderDangi/Nike-Frontend.git/static/js/787.ce8d3880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca003b7.css",
+    "static/js/main.8305c4ea.js"
+  ]
+}
